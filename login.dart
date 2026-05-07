@@ -21,7 +21,7 @@ class vistaDeLog extends StatefulWidget {
 class _vistaDeLogState extends State<vistaDeLog> {
   TextEditingController usernameController = TextEditingController();
   TextEditingController passwordController = TextEditingController();
-  String muestraRespuesta = 'Ingrese un username';
+  String muestraRespuesta = 'Ingrese su cuenta';
   String analisisPass = '';
   String analisisUser = '';
   String username = 'sergio';
